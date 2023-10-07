@@ -1,0 +1,39 @@
+---
+title: "Travelling"
+---
+
+## Travelling in general
+
+If you are going to participate in a conference, going on a scientific cruise or similar you need to get permission for that work related travel **beforehand**. On the KUS-Portal (<https://www.kus.uni-hamburg.de/en.html>) you can find the form that needs to be filled out as well as any other work-related traveling. It is recommended to look up all possible costs (airplane, train, hotel, conference fee, "Auslandstagegeld" <https://www.fid.uni-hamburg.de/arvvwv.pdf>) before filling out the form because you can ask the uni for an advance of \~80% of the expected traveling costs if they will be higher than 200 Euro. But you can also get all of your travel expenses back at once after the travel. The university does not pay every hotel price, how much per night the university is okay with and how much money per day ("Auslandstagegeld" for food etc.) you get is depending on where you are traveling. You can find the current list in the "ARVVwV"-PDF (<https://www.kus.uni-hamburg.de/en/themen/dienstreisen/rechtsvorschriften.html>); the PDF sadly only exists in German. After you filled out the form for business trips and got it signed by the responsible Professor and budget/resource manager, send it to our secretary [laura.schmidt-1\@uni-hamburg.de](mailto:laura.schmidt-1@uni-hamburg.de) so that she can forward it to the responsible bureau of the university. Laura will send you the form back after it got accepted by the bureau.
+
+**After** your return you can fill out the form to get your traveling costs back from the university (KUS-Portal; "Reisekostenabrechnung"). The filled out form plus all needed expense receipts (conference fee, letter of attendance, hotel costs, train/airplane bookings, tourist fees etc.) should be sent as one PDF to Laura so she can forward it to the responsible bureau, they will write you if and how much they will pay.
+
+You can find a checklist of what to do before and after traveling [here](checklists.qmd).
+
+## For work-related travels outside of Germany (EU/EAA countries)\*
+
+After you got the permission for travelling back from the responsible bureau you need to get an A1 certificate ("Entsendungs-Bescheinigung") which ensures that you are allowed to work outside of Germany and that you are still health insured during that work. To get this A1 certificate you need to send the following to your respective human resources person (A-L: Frau Agarius \| M-Z: Frau Konstantinidou):
+
+-   the accepted form for business trips
+
+-   full name
+
+-   Address (privat, not work)
+
+-   E-Mail address (work)
+
+-   name of health insurance (AOK, Barmer, TK...)
+
+-   duration of business trip: from xx.xx.xxxx to xx.xx.xxxx
+
+-   place of business trip: City, Country
+
+-   place of work: e.g. Conference Center XY
+
+-   exact address place of accommodation: e.g. Hotel XY, exact address
+
+The responsible HR person will then send you the A1 certificate (it comes from your health insurance and normally has 3 pages). You must always carry that A1 certificate with you during the business trip.
+
+!!! For non-EU/non-EAA countries !!!\* Visit the DVKA website to find the need form/certificate for the respective country (<https://www.dvka.de/de/arbeitgeber_arbeitnehmer/antraege_finden/entsendung_ausland/entsendung/entsendung_ins_ausland.html>)
+
+-   There is also an information sheet about the A1/other certificates needed for abroad working trips (ask Laura for the PDF, available in German and English).

@@ -1,0 +1,48 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Welcome to your PhD at the IMF :)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Organization
+        menu: 
+          - Enrollment.qmd
+          - Internationals.qmd
+          - Travelling.qmd
+          - checklists.qmd
+          - facilities-people.qmd
+          - Funding.qmd
+          - Hiwis.qmd
+      - href: Resources.qmd
+        text: Useful resources
+      - text: Stay happy during the PhD
+        menu: 
+          - happy_PhD.qmd
+          - Hamburg.qmd
+      - href: phd-students.qmd
+        text: The other PhDs
+      - about.qmd
+      
+
+      
+  page-footer: 
+    right: "© 2023 by Helene Gutte"
+    left: "This site is built with Quarto"         
+    border: true
+
+
+
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+    self-contained: true
+    page-layout: full
+
+editor: visual

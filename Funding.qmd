@@ -1,0 +1,33 @@
+---
+title: "Funding"
+---
+
+If you are employed in a third-party-funding project (as opposed to an in-house position), you will have to take care of some additional obligations. Some of these obligations differ between funding agencies.
+
+## European Union (EU) projects
+
+### Time Sheets
+
+You are required to record your working hours and vacation in official time sheets. You can obtain time-sheet templates as Excel files from Laura or - preferably - from the financial manager for EU projects, Mina Nasseh ([mina.nasseh\@uni-hamburg.de](mailto:mina.nasseh@uni-hamburg.de)). You will also have to provide a very short summary of your work (a few keywords). From our experience, you should remind yourself about the requirement to record your time, as your supervisor will not necessarily have that on his / her mind. Every year or so, Mina will ask you to send to her the filled and signed time sheets (printed originals required) for financial reporting.
+
+### Presentations and Posters
+
+If you plan to give a presentation or create a poster, make sure to acknowledge the project. Usually, there is an official disclaimer, which is sent around occasionally by the project manager of your project, but is likely also to be found on the project website.The EU flag should usually also be displayed. It is important to adhere to this obligation, as failure to do so can, in theory, lead to withdrawal of funding money. You can simply add the disclaimer to the last slide of your presentation:
+
+![EU Disclaimer](figures/Disclaimer_Example.png){width="400"}
+
+### Publishing
+
+If you publish a paper that acknowledges EU funding, be aware that it should be published as "Gold Open Access", as the project has funding reserved for that purpose (publishing Open Access can be quite costly). Also, you need to upload the published manuscript on a public server (for example the UHH repository "FIS", <https://www.fis.uni-hamburg.de/>). You should check whether you have the rights to do so (e.g. CC-BY license) beforehand, however.
+
+### Meetings and Deliverables
+
+You will likely also be asked to participate in the annual meeting of the project, either in person or online; a meeting usually doesn't last longer than a week.
+
+As in most third-party projects, you will likely be asked to contribute to deliverable reports. That means writing a (usually relatively short) text on your work as it relates to your work-package's deliverable, which will then be integrated into the fitting report section by your supervisor. Depending on your supervisor, you might also have more or less reporting responsibility, however.
+
+\
+
+## DFG / BMBF / Other projects
+
+\

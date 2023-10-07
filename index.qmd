@@ -1,0 +1,5 @@
+---
+title: "Welcome to your PhD at the IMF in Hamburg"
+---
+
+On this website you can learn about the facilities of the IMF, organizing your PhD, find useful [checklists](checklists.qmd) (e.g what to do before and after travelling for work). You can also find out what the [other PhD students](phd-students.qmd) are doing, which places in Hamburg you should visit during your time here, the best restaurants to check out and how to have a happy and successful PhD.
