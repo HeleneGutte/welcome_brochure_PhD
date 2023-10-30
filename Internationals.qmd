@@ -2,7 +2,7 @@
 title: "International students"
 ---
 
-**Getting started in Germany as an international PhD student**
+## **Getting started in Germany as an international PhD student**
 
 First of all, you must be aware that your countries are eligible to enter Germany by checking out the Staatenliste zur Visumpflicht ([Overview of visa requirements/exemptions for entry into the Federal Republic of Germany - Federal Foreign Office (auswaertiges-amt.de)](https://www.auswaertiges-amt.de/en/visa-service/-/231148).
 
@@ -20,4 +20,14 @@ In addition, after you arrive in Germany, you must apply for a residence permit 
 
 Also, you also can visit the "Welcome Service für Internationale Forschende" from the University of Hamburg website to get several insights for living in Hamburg for the internationals.
 
-\
+##  German courses / Language courses
+
+**German**
+
+The university offers German language courses for students enrolled at the university, you can find more information on [this website](https://www.uni-hamburg.de/en/internationales/studierende/sprachkurse-uhh/deutschkurse.html). You can choose between pre-semester intensive courses and courses during the semester. The courses have different levels from beginner (A1) to expert (C1).
+
+The MIN faculty also offers information on language courses for PhD candidates: <https://www.promovieren.uni-hamburg.de/en/min/weiterbildung/sprachkurse.html>
+
+**Other languages**
+
+The university offers also other language courses, some even online, and also courses in German sign language. You can find more information [here](https://www.uni-hamburg.de/en/internationales/studierende/sprachkurse-uhh/sprachkurse.html).

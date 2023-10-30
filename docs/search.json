@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "Resources.html",
-    "href": "Resources.html",
-    "title": "Useful resources",
-    "section": "",
-    "text": "Intranet: Use it for reservations of vehicles, rooms etc. Also includes a list of absences of the employees and useful manuals for example installing printers and IT programs.\nhttp://intranet.hydrobio.uni-hamburg.de\nStaff service portal: Technical emergency services for disruptions and defects \nhttps://www.kus.uni-hamburg.de/en/themen/rund-ums-gebaeude/stoerungen-maengel.html\nPrinting:"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "happy_PhD.html",
-    "href": "happy_PhD.html",
-    "title": "How to stay happy during your PhD",
-    "section": "",
-    "text": "Managing your Mental Health: \nhttps://link.springer.com/book/10.1007/978-3-031-14194-2 (You can access the book via UHH intranet).\nThe University of Hamburg provides a consultation to manage your mental health. Please visit: Psychologische Beratung (uni-hamburg.de)"
-  },
-  {
-    "objectID": "happy_PhD.html#vacation-and-public-holiday-in-hamburg",
-    "href": "happy_PhD.html#vacation-and-public-holiday-in-hamburg",
-    "title": "How to stay happy during your PhD",
-    "section": "Vacation and public holiday in Hamburg",
-    "text": "Vacation and public holiday in Hamburg\nTo get vacation you should first talk to your supervisor, after you have their approval you simply send an email to Laura and Christian with the dates of your vacation. In total you have in each year 30 vacation days.\nThe following days are public holidays in Hamburg:\n\n1st January (New Years)\nGood Friday\nEaster Monday\nAscension of Christ\nPentecost\n3rd October\n31st of October\n25th and 26th of December (Christmas)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to your PhD at the IMF in Hamburg",
-    "section": "",
-    "text": "On this website you can learn about the facilities of the IMF, organizing your PhD, find useful checklists (e.g what to do before and after travelling for work). You can also find out what the other PhD students are doing, which places in Hamburg you should visit during your time here, the best restaurants to check out and how to have a happy and successful PhD."
-  },
-  {
-    "objectID": "Hamburg.html",
-    "href": "Hamburg.html",
-    "title": "What to do in Hamburg",
-    "section": "",
-    "text": "Activities in Hamburg\nHamburg offers many places to relax, discover and celebrate. Here are a few selected places that are absolutely recommendable if you are new to Hamburg.\n \nOutdoor\nPlanten un Bloomen\nWhere: Marseiller Promenade, 20355 Hamburg, near U Bahn Stephansplatz, S Bahn Dammtor\nActivities: Walking, relaxing, concerts\nThe public park near the main campus offers 47 ha of numerous places to walk and relax and leads through various botanical worlds, such as the Japanese park. Tropical plants are also on display and can be viewed in greenhouses. Concerts and other cultural events are also held here seasonally.\n \nAlster\nWhere: U Bahn Jungfernstieg and Hauptbahnhof\nActivities: Walking, sailing, SUP, pedal boating\n \nThe Alster is one of three rivers that flow through Hamburg. From the underground station Jungfernstieg you can quickly walk from the so-called Binnenalster to the Außenalster. It takes about 2 hours to walk completely around it or you can also discover the Alster on the water, e.g. from a sailing boat, pedal boat or SUP.\n\n© wikipedia\n\n\nAltonaer Balkon and Elbstrand\nWhere: S Bahn Königstraße, Ferry 62 or Bus 111 to Övelgönne\nActivities: Walking, various outdoor activities, cocktails, …\nFrom our institute you can reach the Altonaer Balkon in a few minutes, from where you have a great view of the Hamburg harbour, Dockland and the waterway. You can walk or take public transport from here to the museum harbour Övelgönne and the Elbe beach. Here, in addition to historic ships, you can also discover several bars and restaurants located next to the beach. The “Strandperle” bar is particularly well-known and very popular with locals and tourists.\n \nBars\nAurel\nWhere: Bahrenfelder Str. 157, 22765 Hamburg, S Bahn Altona\nWhat: A fun and hip bar with friendly interior, snacks, and a selection of cocktails as well as outdoor seating.\n \nAltes Mädchen\nWhere: Lagerstraße 28b, 20357 Hamburg, S Bahn Sternschanze \nWhat: The Braugasthaus offers good beer from its own brewery and home-style brewhouse cuisine, plus a cosy flair in an otherwise very lively district, the Schanzenviertel.\n \nGoldfischglas\nWhere: Bartelsstraße 30, 20357 Hamburg, S Bahn Sternschanze\nWhat: Cocktails and draught beer in a bar with a casual ambience, DJs and a compact dance floor.\n \nZum tanzenden Einhorn\nWhere: Hammer Steindamm 108, 20535 Hamburg, U Bahn Hammer Kirche\nWhat: Medieval tavern with warm cuisine and delicious drinks. A real Hamburg original even for non-nerds (but also for nerds)."
-  },
-  {
     "objectID": "Travelling.html",
     "href": "Travelling.html",
     "title": "Travelling",
@@ -63,6 +21,20 @@
     "text": "You are wondering who the other PhD students are? How many are there, what are they doing and where are they?"
   },
   {
+    "objectID": "happy_PhD.html",
+    "href": "happy_PhD.html",
+    "title": "How to stay happy during your PhD",
+    "section": "",
+    "text": "Managing your Mental Health: \nhttps://link.springer.com/book/10.1007/978-3-031-14194-2 (You can access the book via UHH intranet).\nThe University of Hamburg provides a consultation to manage your mental health. Please visit: Psychologische Beratung (uni-hamburg.de)"
+  },
+  {
+    "objectID": "happy_PhD.html#vacation-and-public-holiday-in-hamburg",
+    "href": "happy_PhD.html#vacation-and-public-holiday-in-hamburg",
+    "title": "How to stay happy during your PhD",
+    "section": "Vacation and public holiday in Hamburg",
+    "text": "Vacation and public holiday in Hamburg\nTo get vacation you should first talk to your supervisor, after you have their approval you simply send an email to Laura and Christian with the dates of your vacation. In total you have in each year 30 vacation days.\nThe following days are public holidays in Hamburg:\n\n1st January (New Years)\nGood Friday\nEaster Monday\nAscension of Christ\nPentecost\n3rd October\n31st of October\n25th and 26th of December (Christmas)"
+  },
+  {
     "objectID": "facilities-people.html",
     "href": "facilities-people.html",
     "title": "Facilities and people you need to know",
@@ -74,7 +46,21 @@
     "href": "Internationals.html",
     "title": "International students",
     "section": "",
-    "text": "Getting started in Germany as an international PhD student\nFirst of all, you must be aware that your countries are eligible to enter Germany by checking out the Staatenliste zur Visumpflicht (Overview of visa requirements/exemptions for entry into the Federal Republic of Germany - Federal Foreign Office (auswaertiges-amt.de).\nSeveral documents are needed to apply for a working visa. You will need to apply for a visa for research in accordance with Section 18 on the Residence Act - AufenthG. You are considered a “researcher” if you have at least a PhD/doctorate or a suitable university degree enabling you to access PhD degree programmes (Article 3 of Directive (EU) 2016/801). There are several documents are needed:\n\nLetter of acceptance, \nWorking contract from the University of Hamburg or other funding sources,\nHealth insurance (TK, AOK, DAK, other public insurances),\nOther documents (bachelor certificate, passport, accommodation).\n\nIn addition, after you arrive in Germany, you must apply for a residence permit and register your house/ apartment in the city hall (Rathaus). After 3 years (depending on your PhD contract), if you have yet graduated, you have to extend your residence permit.\nAlso, you also can visit the “Welcome Service für Internationale Forschende” from the University of Hamburg website to get several insights for living in Hamburg for the internationals."
+    "text": "First of all, you must be aware that your countries are eligible to enter Germany by checking out the Staatenliste zur Visumpflicht (Overview of visa requirements/exemptions for entry into the Federal Republic of Germany - Federal Foreign Office (auswaertiges-amt.de).\nSeveral documents are needed to apply for a working visa. You will need to apply for a visa for research in accordance with Section 18 on the Residence Act - AufenthG. You are considered a “researcher” if you have at least a PhD/doctorate or a suitable university degree enabling you to access PhD degree programmes (Article 3 of Directive (EU) 2016/801). There are several documents are needed:\n\nLetter of acceptance, \nWorking contract from the University of Hamburg or other funding sources,\nHealth insurance (TK, AOK, DAK, other public insurances),\nOther documents (bachelor certificate, passport, accommodation).\n\nIn addition, after you arrive in Germany, you must apply for a residence permit and register your house/ apartment in the city hall (Rathaus). After 3 years (depending on your PhD contract), if you have yet graduated, you have to extend your residence permit.\nAlso, you also can visit the “Welcome Service für Internationale Forschende” from the University of Hamburg website to get several insights for living in Hamburg for the internationals."
+  },
+  {
+    "objectID": "Internationals.html#german-courses-language-courses",
+    "href": "Internationals.html#german-courses-language-courses",
+    "title": "International students",
+    "section": "German courses / Language courses",
+    "text": "German courses / Language courses\nGerman\nThe university offers German language courses for students enrolled at the university, you can find more information on this website. You can choose between pre-semester intensive courses and courses during the semester. The courses have different levels from beginner (A1) to expert (C1).\nThe MIN faculty also offers information on language courses for PhD candidates: https://www.promovieren.uni-hamburg.de/en/min/weiterbildung/sprachkurse.html\nOther languages\nThe university offers also other language courses, some even online, and also courses in German sign language. You can find more information here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to your PhD at the IMF in Hamburg",
+    "section": "",
+    "text": "On this website you can learn about the facilities of the IMF, organizing your PhD, find useful checklists (e.g what to do before and after travelling for work). You can also find out what the other PhD students are doing, which places in Hamburg you should visit during your time here, the best restaurants to check out and how to have a happy and successful PhD."
   },
   {
     "objectID": "Enrollment.html",
@@ -82,6 +68,13 @@
     "title": "Enrollment as PhD",
     "section": "",
     "text": "Immatriculation/Enrollment as PhD Student\nAlthough you have a working contract with the University you also have to immatriculate at the University as PhD Student (and therefore also have to pay semester fees) via Stine (https://www.stine.uni-hamburg.de/). Additionally you have to apply for admission of your PhD via Docata (https://docata.min.uni-hamburg.de/home). You will need to fill out several forms and send several information to the biology department bureau, Mrs. Ziemer is the go-to person for PhD students. On these websites you can find further and detailed information:\n\nEnrollment: https://www.promovieren.uni-hamburg.de/en/min/promotion/einschreibung.html\nAdmission: https://www.promovieren.uni-hamburg.de/en/min/promotion/zulassung.html\n\nYou can find a checklist with all the documents here.\nYou are then enrolled as a PhD student for the next 4 years. If you need an expansion you have to write Mrs. Ziemer at least 3 months before these 4 years end."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "Hiwis.html",
@@ -117,5 +110,26 @@
     "title": "Checklists",
     "section": "",
     "text": "Enrollment and Admission\n\n“Application for admission to doctoral procedures in the Department of Biology”\n“Confirmation of academic supervision”/“Betreuungsvereinbarung”\n“Description of the topic and outline of the research project”\nMaster degree certificate\nMaster Transcript of Records\nBachelor degree certificate\nBachelor Transcript of Records\nA-level certificate\ncopy of your ID/passport\nCV\n\nAll these documents have to handed in as one PDF document!\nIf you have a supervisor who is not working at the University of Hamburg you also have to submit a “Application for the right to examine”/“Antrag auf Prüfungsrecht” for your supervisor which needs to have the following within one PDF:\n\nCV of your supervisor\nList of supervised theses\nList of publications from your supervisor\ncertificate of being a professor at a University\n\nApplication websites:\n\nEnrollment: Stine https://www.stine.uni-hamburg.de/\nAdmission: Docata https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html\n\n\n\nTravelling\nBefore the travel\n\nroughly calculate the potential costs of the trip\ncheck how much the university will pay for accommodation and daily allowance in the country to which you travel\nfill out the travel request form (if the total costs will be higher than 200€ don´t forget to apply for advanced payment)\nafter your travel got accepted apply for the A1 certificate (if you are travelling outside of Germany)\n\nDuring travelling\n\nsave receipts of public transportation, taxi / uber etc. (if you don´t get one but paid with a credit card you can also validate your costs by showing your banking statements)\nif you don´t get the daily allowance save all other receipts too (e.g. from supermarkets, restaurants) to get reimbursed for your living costs\n\nAfter the travel\n\nfill out the travel expense form (if you got an advanced payment you have to hand in the form 6 weeks after you came back from the business trip)\nAttach all necessary documents to show how much many you spend, this includes e.g.:\n\nflight tickets\nhotel receipts\npublic transportation\nliving costs\nprogram or agenda of the meeting / conference\n\n\n\n\nHiwi contracts\nInformation that Laura needs to set up the contracts:\n\nfull name of your planned HiWi person\nmobile phone number + E-Mail address of your planned HiWi person\nduration of the contract: from xx.xx.xxxx to xx.xx.xxxx\nPSP/WBS element (the money pot)\nworking hours per month\n\n\n\nVisa for international students\n\nLetter of acceptance \nWorking contract from the University of Hamburg or other funding sources\nHealth insurance (TK, AOK, DAK, other public insurances)\nOther documents (bachelor certificate, passport, accommodation)\nresidence permit\nregister housing\n\n\n\nPurchasing"
+  },
+  {
+    "objectID": "Hamburg.html",
+    "href": "Hamburg.html",
+    "title": "What to do in Hamburg",
+    "section": "",
+    "text": "Hamburg offers many places to relax, discover and celebrate. Here are a few selected places that are absolutely recommendable if you are new to Hamburg.\n \n\n\nPlanten un Bloomen\nWhere: Marseiller Promenade, 20355 Hamburg, near U Bahn Stephansplatz, S Bahn Dammtor\nActivities: Walking, relaxing, concerts\nThe public park near the main campus offers 47 ha of numerous places to walk and relax and leads through various botanical worlds, such as the Japanese park. Tropical plants are also on display and can be viewed in greenhouses. Concerts and other cultural events are also held here seasonally.\n \nAlster\nWhere: U Bahn Jungfernstieg and Hauptbahnhof\nActivities: Walking, sailing, SUP, pedal boating\n \nThe Alster is one of three rivers that flow through Hamburg. From the underground station Jungfernstieg you can quickly walk from the so-called Binnenalster to the Außenalster. It takes about 2 hours to walk completely around it or you can also discover the Alster on the water, e.g. from a sailing boat, pedal boat or SUP.\n\n© wikipedia\n\n\nAltonaer Balkon and Elbstrand\nWhere: S Bahn Königstraße, Ferry 62 or Bus 111 to Övelgönne\nActivities: Walking, various outdoor activities, cocktails, …\nFrom our institute you can reach the Altonaer Balkon in a few minutes, from where you have a great view of the Hamburg harbour, Dockland and the waterway. You can walk or take public transport from here to the museum harbour Övelgönne and the Elbe beach. Here, in addition to historic ships, you can also discover several bars and restaurants located next to the beach. The “Strandperle” bar is particularly well-known and very popular with locals and tourists.\n \n\n\n\nAurel\nWhere: Bahrenfelder Str. 157, 22765 Hamburg, S Bahn Altona\nWhat: A fun and hip bar with friendly interior, snacks, and a selection of cocktails as well as outdoor seating.\n \nAltes Mädchen\nWhere: Lagerstraße 28b, 20357 Hamburg, S Bahn Sternschanze \nWhat: The Braugasthaus offers good beer from its own brewery and home-style brewhouse cuisine, plus a cosy flair in an otherwise very lively district, the Schanzenviertel.\n \nGoldfischglas\nWhere: Bartelsstraße 30, 20357 Hamburg, S Bahn Sternschanze\nWhat: Cocktails and draught beer in a bar with a casual ambience, DJs and a compact dance floor.\n \nZum tanzenden Einhorn\nWhere: Hammer Steindamm 108, 20535 Hamburg, U Bahn Hammer Kirche\nWhat: Medieval tavern with warm cuisine and delicious drinks. A real Hamburg original even for non-nerds (but also for nerds).\n\n\n\nThe university offers a variety of sports courses on their website: Hochschulsport. The courses change each semester, new courses usually start in April and October. You can attend over 100 different courses with the Flexicard, but for some courses you have to book a slot for each week. The Flexicard can be purchased for 3 or for 6 months. The courses which you can attend with the Flexicard are marked with a ♥ on the Hochschulsport website. All other courses can be booked individually. These courses run usually one semester.\nThe Hochschulsport offers also skiing or snowboard camps and in summer surfing and kitesurfing camps.\nA highlight that Hamburg and the Hochschulsport have to offer are the many different water sports such as sailing, kayaking, rowing and kanupolo.\n\n\n\nMany cinemas in Hamburg show films in English or the original language (often with German subtitles). In the programs they have the note OmU (original with subtitles). Here is a lst of cinemas, where you have the best chances of finding movies in original language (but big cinemas like Cinemaxx occasionally also have some):\nAbaton Kino\nAllendeplatz 3 / Ecke Grindelhof, 20146 Hamburg\nFilmRaum\nMüggenkampstraße 45, 20257 Hamburg\nLichtmess Kino\nGausstraße 25, 22765 Hamburg\nMetropolis Kino\nKleine Theaterstraße 10, 20354 Hamburg\nSavoy Filmtheater\nSteindamm 54, 20099 Hamburg\nThe Savoy also has a Sneak Preview in English.\nStudio Kino\nBernstorffstraße 93 - 95, 22767 Hamburg"
+  },
+  {
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Useful resources",
+    "section": "",
+    "text": "If you want to learn new soft skills, methods or statistical approaches but you don´t know where to look you can check out these webpages:\nSoft skills (academic writing, presentation skills): https://www.uni-hamburg.de/en/sprachenzentrum/moderne-fremdsprachen/kurse/kurse-fuer-doktoranden.html\nResearch communication, starting a PhD, academic writing, career development, healthy work habits etc : https://www.hra-hamburg.de/en/unser-angebot/kursangebot.html\nR, Phyton, Bioconductor courses. Sometimes with a specific topic, sometimes general courses: https://www.physalia-courses.org/courses-workshops/\nCopernicus offers regular online trainings about the use of their data products: https://atmosphere.copernicus.eu/training\nData Science related courses (R, Statistics, FAIR data, deep leraning, Phyton etc.): https://www.helmholtz-hida.de/course-catalog/en/ Some courses are only for Helmholtz members, but most courses are public."
+  },
+  {
+    "objectID": "Resources.html#other-useful-links",
+    "href": "Resources.html#other-useful-links",
+    "title": "Useful resources",
+    "section": "Other useful links:",
+    "text": "Other useful links:\nIntranet: Use it for reservations of vehicles, rooms etc. Also includes a list of absences of the employees and useful manuals for example installing printers and IT programs.\nhttp://intranet.hydrobio.uni-hamburg.de\nStaff service portal: Technical emergency services for disruptions and defects \nhttps://www.kus.uni-hamburg.de/en/themen/rund-ums-gebaeude/stoerungen-maengel.html"
   }
 ]

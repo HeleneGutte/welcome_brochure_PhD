@@ -2,12 +2,26 @@
 title: "Useful resources"
 ---
 
-Intranet: Use it for reservations of vehicles, rooms etc. Also includes a list of absences of the employees and useful manuals for example installing printers and IT programs.
+## **Courses:** 
+
+If you want to learn new soft skills, methods or statistical approaches but you don´t know where to look you can check out these webpages:
+
+Soft skills (academic writing, presentation skills): <https://www.uni-hamburg.de/en/sprachenzentrum/moderne-fremdsprachen/kurse/kurse-fuer-doktoranden.html>
+
+Research communication, starting a PhD, academic writing, career development, healthy work habits etc : <https://www.hra-hamburg.de/en/unser-angebot/kursangebot.html>
+
+R, Phyton, Bioconductor courses. Sometimes with a specific topic, sometimes general courses: <https://www.physalia-courses.org/courses-workshops/>
+
+Copernicus offers regular online trainings about the use of their data products: <https://atmosphere.copernicus.eu/training>
+
+Data Science related courses (R, Statistics, FAIR data, deep leraning, Phyton etc.): <https://www.helmholtz-hida.de/course-catalog/en/> Some courses are only for Helmholtz members, but most courses are public.
+
+## Other useful links: 
+
+**Intranet:** Use it for reservations of vehicles, rooms etc. Also includes a list of absences of the employees and useful manuals for example installing printers and IT programs.
 
 [http://intranet.hydrobio.uni-hamburg.de](http://intranet.hydrobio.uni-hamburg.de/)
 
-Staff service portal: Technical emergency services for disruptions and defects 
+**Staff service portal:** Technical emergency services for disruptions and defects 
 
 <https://www.kus.uni-hamburg.de/en/themen/rund-ums-gebaeude/stoerungen-maengel.html>
-
-Printing:
